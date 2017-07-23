@@ -1,4 +1,4 @@
-## This repository contains the code for predicting steering using pattern matching. The steering values generated from here can be used in ROS or Arduino to control the robot.
+## This repository contains the code for predicting steering using pattern matching. The steering values generated from here can be used in ROS or Arduino to control the robot. (Demo available @ https://youtu.be/KxLOlbl58QY )
 
 ## There are two different sample patterns in the 'data' folder- p1.png and p2.png. To test the code take print out of any pattern and use it.(Note: These patterns are completely random and don't mean anything except testing patterns)
 
